@@ -1,0 +1,4 @@
+This folder contains exercises from the book C++ Primer Plus, Sixth Edition by Stephen Prata.
+
+I'm using the polish version of book, so some texts can be in Polish, but they don't affect the whole idea of programme.
+

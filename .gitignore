@@ -30,3 +30,6 @@
 
 # Debug files
 *.dSYM/
+s.p-C-6th_ed/Chapter2/C/exercise2.c
+s.p-C-6th_ed/Chapter2/C/exercise3_imp.c
+s.p-C-6th_ed/Chapter2/Cpp/exercise3_imp.cpp
